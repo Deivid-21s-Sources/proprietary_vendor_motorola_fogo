@@ -1,5 +1,5 @@
 
-s330000Œ¿£§"Æ"
+s330000¸Á£§"Æ"
 cdma_3waycall_flash_delay_intÈ
 
 httpParamsX-MDN: ##LINE1##

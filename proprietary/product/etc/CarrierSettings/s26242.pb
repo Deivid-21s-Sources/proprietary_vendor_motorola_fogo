@@ -1,5 +1,5 @@
 
-s26242Œ¿£§
+s26242¸Á£§
 Truphonetruphone.com"¨ 
 allow_merging_rtt_calls_bool( 
 ignore_rtt_mode_setting_bool(
